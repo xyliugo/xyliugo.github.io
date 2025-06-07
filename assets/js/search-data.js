@@ -42,16 +42,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-m-starting-my-phd-at-nus-soc-in-fall-2024-advised-by-michael-qizhe-shieh",
+          title: '🛫 I’m starting my PhD at NUS SoC in Fall 2024, advised by...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-codexgraph-is-accepted-to-naacl",
+          title: '🎉 Our paper CodexGraph is accepted to NAACL!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-noisyrollout-is-on-arxiv-now-we-propose-a-simple-yet-effective-data-augmentation-technique-that-enhances-visual-reasoning-in-vlms-by-mixing-rollouts-from-clean-and-moderately-distorted-images-during-rl-training-no-extra-cost-just-smarter-exploration",
+          title: '🤓 Our paper NoisyRollout is on Arxiv now! We propose a simple yet...',
           description: "",
           section: "News",},{
         id: 'social-email',
