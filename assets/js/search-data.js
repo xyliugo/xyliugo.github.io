@@ -29,13 +29,13 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
             },},{id: "news-i-m-starting-my-phd-at-nus-soc-in-fall-2024-advised-by-michael-qizhe-shieh",
-          title: '🛫 I’m starting my PhD at NUS SoC in Fall 2024, advised by...',
+          title: 'I’m starting my PhD at NUS SoC in Fall 2024, advised by Michael...',
           description: "",
           section: "News",},{id: "news-our-paper-codexgraph-is-accepted-to-naacl",
-          title: '🎉 Our paper CodexGraph is accepted to NAACL!',
+          title: 'Our paper CodexGraph is accepted to NAACL!',
           description: "",
           section: "News",},{id: "news-our-paper-noisyrollout-is-on-arxiv-now-we-propose-a-simple-yet-effective-data-augmentation-technique-that-enhances-visual-reasoning-in-vlms-by-mixing-rollouts-from-clean-and-moderately-distorted-images-during-rl-training-no-extra-cost-just-smarter-exploration",
-          title: '🤓 Our paper NoisyRollout is on Arxiv now! We propose a simple yet...',
+          title: 'Our paper NoisyRollout is on Arxiv now! We propose a simple yet effective...',
           description: "",
           section: "News",},{
         id: 'social-email',
