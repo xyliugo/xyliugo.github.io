@@ -64,7 +64,7 @@
 - title: Teaching
   type: time_table
   contents:
-    - year: Spring 2025
+    - year: 2025
       titile: Teaching Assistant
       items:
         - [CS5260 - Neural Networks and Deep Learning II](https://nusmods.com/courses/CS5260/neural-networks-and-deep-learning-ii), National University of Singapore
