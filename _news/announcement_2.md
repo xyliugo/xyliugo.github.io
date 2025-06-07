@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper [CodexGraph](https://aclanthology.org/2025.naacl-long.7.pdf) is accepted to NAACL!
+Our paper [CodexGraph](https://aclanthology.org/2025.naacl-long.7.pdf) is accepted to NAACL!

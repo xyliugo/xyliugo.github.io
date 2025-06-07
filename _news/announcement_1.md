@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🛫 I’m starting my PhD at NUS SoC in Fall 2024, advised by [Michael Qizhe Shieh](https://michaelshieh.com/).
+I’m starting my PhD at NUS SoC in Fall 2024, advised by [Michael Qizhe Shieh](https://michaelshieh.com/).
