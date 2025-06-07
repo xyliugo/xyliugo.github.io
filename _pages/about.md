@@ -27,6 +27,6 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi👋, I'm Xiangyan! I'm a PhD student in Computer Science at National University of Singapore, proudly advised by Prof. [Michael Qizhe Shieh](https://michaelshieh.com/). My research interests focus on multimodal and agentic foundation models. I prefer solutions that are simple, generalizable, and scalable. 
+Hi👋, I'm Xiangyan! I'm a PhD student in Computer Science at National University of Singapore, advised by Prof. [Michael Qizhe Shieh](https://michaelshieh.com/). My research interests focus on multimodal and agentic foundation models. I prefer solutions that are simple, generalizable, and scalable. 
 
 Feel free to reach out if you're interested in my research or would like to discuss potential collaborations! You can find my contact information at the bottom of this page.
