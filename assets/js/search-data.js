@@ -34,8 +34,11 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-codexgraph-is-accepted-to-naacl-codexgraph-is-a-system-that-leverages-graph-databases-to-enhance-llm-interaction-with-code-repositories-enabling-precise-code-retrieval-and-navigation",
           title: 'Our paper CodexGraph is accepted to NAACL! CodexGraph is a system that leverages...',
           description: "",
-          section: "News",},{id: "news-our-paper-noisyrollout-is-on-arxiv-now-we-propose-a-simple-yet-effective-technique-that-boosts-vlm-reasoning-by-mixing-clean-and-noisy-trajectories-during-rl-improving-generalization-with-no-extra-cost",
-          title: 'Our paper NoisyRollout is on Arxiv now! We propose a simple yet effective...',
+          section: "News",},{id: "news-our-recent-work-mcpmark-is-released-mcpmark-is-a-benchmark-for-stress-testing-realistic-and-comprehensive-mcp-use-check-our-nice-website-to-review-the-tasks-and-examine-actual-trajectories-of-agent-execution",
+          title: 'Our recent work MCPMark is released! MCPMark is a benchmark for stress-testing realistic...',
+          description: "",
+          section: "News",},{id: "news-our-paper-noisyrollout-is-accepted-to-neurips-2025-noisyrollout-is-a-simple-yet-effective-rollout-level-data-augmentation-technique-that-improves-visual-reasoning-in-vlms-by-mixing-trajectories-from-clean-and-noisy-images-during-rl-training",
+          title: 'Our paper NoisyRollout is accepted to NeurIPS 2025! NoisyRollout is a simple yet...',
           description: "",
           section: "News",},{
         id: 'social-email',
