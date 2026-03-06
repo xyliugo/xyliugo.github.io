@@ -23,7 +23,9 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Xiangyan, a second-year PhD student in Computer Science at National University of Singapore, where I'm fortunate to be advised by Prof. [Michael Qizhe Shieh](https://michaelshieh.com/). My research focuses on multimodal and agentic foundation models, with an interest in solutions that are simple, generalizable, and scalable.
+Hello! I'm Xiangyan, a second-year PhD student in Computer Science at National University of Singapore, where I'm fortunate to be advised by Prof. [Michael Qizhe Shieh](https://michaelshieh.com/). 
+
+My research focuses on multimodal and agentic foundation models, with an interest in solutions that are simple, generalizable, and scalable.
 
 I previously interned at Moonshot AI, where I worked on developing visual agents. Before that, I interned at Alibaba Tongyi and Shanghai AI Lab. I also had the invaluable opportunity to work with Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Recently, I'm fortunate to be working closely with Dr. [Tianyu Pang](https://p2333.github.io/), Dr. [Chao Du](https://duchao0726.github.io/) and Dr. [Longxu Dou](https://longxudou.github.io/) at Sea AI Lab.
 
