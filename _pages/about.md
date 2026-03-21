@@ -27,6 +27,8 @@ Hello! I'm Xiangyan, a second-year PhD student in Computer Science at National U
 
 My research focuses on multimodal and agentic foundation models, with an interest in solutions that are simple, generalizable, and scalable.
 
-I previously interned at Moonshot AI, where I worked on developing visual agents. Before that, I interned at Alibaba Tongyi and Shanghai AI Lab. I also had the invaluable opportunity to work with Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. Recently, I'm fortunate to be working closely with Dr. [Tianyu Pang](https://p2333.github.io/), Dr. [Chao Du](https://duchao0726.github.io/) and Dr. [Longxu Dou](https://longxudou.github.io/) at Sea AI Lab.
+I previously interned at Moonshot AI, where I worked on visual agents. Before that, I interned at Alibaba Tongyi and Shanghai AI Lab. I also had the opportunity to work with Prof. [Tao Lin](https://tlin-taolin.github.io/) at Westlake University. 
+
+I have collaborated closely with Dr. [Jinjie Ni](https://jinjieni.github.io/), Dr. [Chao Du](https://duchao0726.github.io/) and Dr. [Longxu Dou](https://longxudou.github.io/) at NUS and Sea AI Lab. Recently, I have been working closely with Dr. [Tianyu Pang](https://p2333.github.io/). 
 
 Feel free to reach out if you would like to chat or discuss any ideas! You can find my contact information at the bottom of this page.
